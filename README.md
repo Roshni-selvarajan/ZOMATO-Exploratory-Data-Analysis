@@ -67,10 +67,9 @@ To get started with the project, follow these steps:
 Some of the key insights derived from the analysis include:
 
 - **Country Distribution**: Most records are from India, followed by the USA and the UK.
-- **Ratings**: The majority of ratings fall between 3.0 to 3.6.
+- **Ratings**: The majority of ratings fall between 2.5 to 3.6 and not rated count is very high.
 - **Online Delivery**: Available mainly in India and the UAE.
 - **Top Cities**: New Delhi, Gurgaon, and Noida are among the top cities with the most restaurants.
-- **Popular Cuisines**: North Indian is the most ordered cuisine.
 
 ## Contributing
 
