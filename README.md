@@ -3,7 +3,7 @@ Here is a professional README for your Zomato Data Analysis project:
 ---
 
 # Zomato Data Analysis
-
+![cover_page](https://asset.inc42.com/2017/09/zomato.jpg)
 Welcome to the Zomato Data Analysis repository! This project explores the Zomato dataset to uncover insights about restaurants, cuisines, and customer ratings across various countries.
 
 ## Table of Contents
