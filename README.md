@@ -27,23 +27,6 @@ The dataset includes information such as:
 - Ratings and reviews
 - Country information
 
-## Installation
-
-To get started with the project, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/Zomato-Data-Analysis.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd Zomato-Data-Analysis
-   ```
-3. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Load the dataset and perform initial exploration:
@@ -67,9 +50,31 @@ To get started with the project, follow these steps:
 Some of the key insights derived from the analysis include:
 
 - **Country Distribution**: Most records are from India, followed by the USA and the UK.
+  ![observation 1](images.ZOMATO/image1.png)
 - **Ratings**: The majority of ratings fall between 2.5 to 3.6 and not rated count is very high.
+  ![observation 2](images.ZOMATO/image2.png)
 - **Online Delivery**: Available mainly in India and the UAE.
+  ![observation 3](images.ZOMATO/image3.png)
 - **Top Cities**: New Delhi, Gurgaon, and Noida are among the top cities with the most restaurants.
+  ![observation 4](images.ZOMATO/image4.png)
+
+  ## Installation
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/Zomato-Data-Analysis.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Zomato-Data-Analysis
+   ```
+3. Install the required dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
 
 ## Contributing
 
