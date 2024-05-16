@@ -1,6 +1,3 @@
-Here is a professional README for your Zomato Data Analysis project:
-
----
 
 # Zomato Data Analysis
 ![cover_page](https://asset.inc42.com/2017/09/zomato.jpg)
